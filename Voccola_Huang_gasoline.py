@@ -27,4 +27,4 @@ average_cost = gas_gallons*2.580
 #output average cost in U.S (USD)
 print gas_gallons, 'gallons of gasoline costs about', average_cost,'dollars in the U.S.'
 
-
+raw_input()
